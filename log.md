@@ -10,4 +10,4 @@
 
 **Today's Progress**: Got through the Bootstrap and jQuery intro on freeCodeCamp, and I'm just about to start my first CodePen project as part of freeCodeCamp.
 
-**Thoughts:** It was my first experience with jQuery, so even though it was super basic I feel good. I need to think of who I'd like to feature on my CodePen project, which is a feature page.
+**Thoughts:** It was my first experience with jQuery, so even though it was super basic I feel good. I need to think of who I'd like to feature on my CodePen project, which is a tribute page.
