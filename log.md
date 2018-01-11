@@ -18,4 +18,12 @@
 
 **Thoughts:** Coding a project is very different than doing exercises. I sat down to start coding it and I was like, "wait, what do I do?" But now that I'm mostly set up with some very basic HTML, I'm looking forward to making it a little more sophisticated and customizing it with CSS.
 
-**Link to Work:** https://codepen.io/lafriedel/pen/ZvreXb
+**Link to Work:** [Tribute Page](https://codepen.io/lafriedel/pen/ZvreXb)
+
+### R1D4: 1/11/18
+
+**Today's Progress**: I started styling my tribute page with custom CSS as well as some Bootstrap styles. I used some things learned in freeCodeCamp as well as researched how to do some new things.
+
+**Thoughts:** Feeling good - I'd like to finish this project up tomorrow so I can move on. I'm struggling to figure out how to best position the title font so that it can be properly responsive, and that caught me up a bit.
+
+**Link to Work:** [Tribute Page](https://codepen.io/lafriedel/pen/ZvreXb)
