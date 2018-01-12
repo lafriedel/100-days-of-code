@@ -24,6 +24,14 @@
 
 **Today's Progress**: I started styling my tribute page with custom CSS as well as some Bootstrap styles. I used some things learned in freeCodeCamp as well as researched how to do some new things.
 
-**Thoughts:** Feeling good - I'd like to finish this project up tomorrow so I can move on. I'm struggling to figure out how to best position the title font so that it can be properly responsive, and that caught me up a bit.
+**Thoughts:** Feeling good - I'd like to finish this project up tomorrow so I can move on. I'm struggling to figure out how to best position the title font so that it layer over the header image and can be properly responsive, and that caught me up a bit.
+
+**Link to Work:** [Tribute Page](https://codepen.io/lafriedel/pen/ZvreXb)
+
+### R1D5: 1/12/18
+
+**Today's Progress**: I finished up my tribute page project; I utilized a bit more Bootstrap. I then began the personal portfolio page project from freeCodeCamp.
+
+**Thoughts:** I did figure out eventually how to layer the text over the image, but realized it wasn't a good solution. I came up with a new solution for the page header that I'm happy with. It felt good to finish a project, even though it was very simple and small.
 
 **Link to Work:** [Tribute Page](https://codepen.io/lafriedel/pen/ZvreXb)
