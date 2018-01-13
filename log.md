@@ -35,3 +35,10 @@
 **Thoughts:** I did figure out eventually how to layer the text over the image, but realized it wasn't a good solution. I came up with a new solution for the page header that I'm happy with. It felt good to finish a project, even though it was very simple and small.
 
 **Link to Work:** [Tribute Page](https://codepen.io/lafriedel/pen/ZvreXb)
+
+### R1D6: 1/13/18
+
+**Today's Progress**: Worked with Bootstrap today to add content to my personal portfolio page.  
+
+**Thoughts:** I'm enjoying seeing how code works and doesn't work. It's like a puzzle.
+
