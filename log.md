@@ -42,3 +42,10 @@
 
 **Thoughts:** I'm enjoying seeing how code works and doesn't work. It's like a puzzle.
 
+### R1D7: 1/14/18
+
+**Today's Progress**: Continued working with Bootstrap. Began implementing Bootstrap forms and nav. Also learned more about customizing Font Awesome icons.  
+
+**Thoughts:** 7-day streak! Yay! I really like Bootstrap. I appreciate its ease of use and it's ability to be easily customized.
+
+**Link to Work:** [Personal Portfolio Page](https://codepen.io/lafriedel/pen/MrXYZd)
