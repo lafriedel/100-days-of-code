@@ -49,3 +49,11 @@
 **Thoughts:** 7-day streak! Yay! I really like Bootstrap. I appreciate its ease of use and it's ability to be easily customized.
 
 **Link to Work:** [Personal Portfolio Page](https://codepen.io/lafriedel/pen/MrXYZd)
+
+### R1D8: 1/15/18
+
+**Today's Progress**: Worked on portfolio page: Correctly coded my hero image with text layering and added in-page navigation.
+
+**Thoughts:** Slightly frustrated with the hero image. I tried adding my headshot with my name and tagline next to it but I'm having trouble getting it to look right. The image size is mostly the issue. I want to spend time getting it to work properly.
+
+**Link to Work:** [Personal Portfolio Page](https://codepen.io/lafriedel/pen/MrXYZd)
