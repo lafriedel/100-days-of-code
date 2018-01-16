@@ -57,3 +57,11 @@
 **Thoughts:** Slightly frustrated with the hero image. I tried adding my headshot with my name and tagline next to it but I'm having trouble getting it to look right. The image size is mostly the issue. I want to spend time getting it to work properly.
 
 **Link to Work:** [Personal Portfolio Page](https://codepen.io/lafriedel/pen/MrXYZd)
+
+### R1D9: 1/16/18
+
+**Today's Progress**: Finished up my personal portfolio page.
+
+**Thoughts:** I feel like there are some general layout/positioning things in CSS that I need to better understand. That's mostly what I've been having trouble with in my coding. I wanted to finish up this project and move on for now, though; I do think I'll go back to these first two projects and rebuild them as my knowledge grows.
+
+**Link to Work:** [Personal Portfolio Page](https://codepen.io/lafriedel/pen/MrXYZd)
