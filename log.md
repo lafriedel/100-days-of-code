@@ -65,3 +65,9 @@
 **Thoughts:** I feel like there are some general layout/positioning things in CSS that I need to better understand. That's mostly what I've been having trouble with in my coding. I wanted to finish up this project and move on for now, though; I do think I'll go back to these first two projects and rebuild them as my knowledge grows.
 
 **Link to Work:** [Personal Portfolio Page](https://codepen.io/lafriedel/pen/MrXYZd)
+
+### R1D10: 1/17/18
+
+**Today's Progress**: Began the Javascript lessons on freeCodeCamp.
+
+**Thoughts:** Math! I like math. Javascript is definitely more challenging for me than HTML/CSS, and I'm looking forward to feeling comfortable with it. (Also, 10% of the way through 100 days!)
