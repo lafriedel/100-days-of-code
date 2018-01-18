@@ -71,3 +71,9 @@
 **Today's Progress**: Began the Javascript lessons on freeCodeCamp.
 
 **Thoughts:** Math! I like math. Javascript is definitely more challenging for me than HTML/CSS, and I'm looking forward to feeling comfortable with it. (Also, 10% of the way through 100 days!)
+
+### R1D11: 1/18/18
+
+**Today's Progress**: Continued working on Javascript lessons on freeCodeCamp: arrays, manipulating arrays, passing arguments into functions.
+
+**Thoughts:** Ugh, I am stuck on a challenge involving queues. It's frustrating - Javascript definitely doesn't come as naturally to me as visual things like HTML and CSS. But I'm working on it - I absolutely want to understand and feel comfortable with Javascript.
