@@ -77,3 +77,9 @@
 **Today's Progress**: Continued working on Javascript lessons on freeCodeCamp: arrays, manipulating arrays, passing arguments into functions.
 
 **Thoughts:** Ugh, I am stuck on a challenge involving queues. It's frustrating - Javascript definitely doesn't come as naturally to me as visual things like HTML and CSS. But I'm working on it - I absolutely want to understand and feel comfortable with Javascript.
+
+### R1D12: 1/19/18
+
+**Today's Progress**: Continued working on Javascript lessons on freeCodeCamp: more mathematical operators, if/else statements, and just beginning switch statements.
+
+**Thoughts:** Feeling a bit more confident today. I caved and looked up the answer to the previous JS challenge. It was a simple solution; I'm thinking the wording of the challenge got me tripped up. Still, I should probably spend more time with .push() and .shift().
