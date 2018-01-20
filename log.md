@@ -83,3 +83,9 @@
 **Today's Progress**: Continued working on Javascript lessons on freeCodeCamp: more mathematical operators, if/else statements, and just beginning switch statements.
 
 **Thoughts:** Feeling a bit more confident today. I caved and looked up the answer to the previous JS challenge. It was a simple solution; I'm thinking the wording of the challenge got me tripped up. Still, I should probably spend more time with .push() and .shift().
+
+### R1D13: 1/20/18
+
+**Today's Progress**: Continued working on Javascript lessons on freeCodeCamp: switch statements, returning boolean values, and working with objects.
+
+**Thoughts:** It went ok today. I'm starting to understand the logic of JS a bit better. 
