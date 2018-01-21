@@ -89,3 +89,9 @@
 **Today's Progress**: Continued working on Javascript lessons on freeCodeCamp: switch statements, returning boolean values, and working with objects.
 
 **Thoughts:** It went ok today. I'm starting to understand the logic of JS a bit better. 
+
+### R1D14: 1/21/18
+
+**Today's Progress**: Still working with Javascript on freeCodeCamp. Today it was accessing information in objects, nested objects, and nested arrays, and I began working with for loops.
+
+**Thoughts:** Feeling good about it. Although I know when I get to the first project challenge using Javascript, there's going to be a dip in my confidence for sure! 
