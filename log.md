@@ -95,3 +95,9 @@
 **Today's Progress**: Still working with Javascript on freeCodeCamp. Today it was accessing information in objects, nested objects, and nested arrays, and I began working with for loops.
 
 **Thoughts:** Feeling good about it. Although I know when I get to the first project challenge using Javascript, there's going to be a dip in my confidence for sure! 
+
+### R1D15: 1/22/18
+
+**Today's Progress**: Still working with Javascript on freeCodeCamp. More work with for loops, nested for loops, while loops.
+
+**Thoughts:** I'm realizing my logic is there, but my syntax/code isn't correct all the time. For example, I had to access a property within an array and I forgot that .hasOwnProperty exists, so I tried accessing it in a different way. But at least I knew I had to access it! I'm getting there.
