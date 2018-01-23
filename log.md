@@ -101,3 +101,9 @@
 **Today's Progress**: Still working with Javascript on freeCodeCamp. More work with for loops, nested for loops, while loops.
 
 **Thoughts:** I'm realizing my logic is there, but my syntax/code isn't correct all the time. For example, I had to access a property within an array and I forgot that .hasOwnProperty exists, so I tried accessing it in a different way. But at least I knew I had to access it! I'm getting there.
+
+### R1D16: 1/23/18
+
+**Today's Progress**: Lots more work with Javascript. Worked with regular expressions and different array and string methods.
+
+**Thoughts:** Feeling good. But tomorrow starts the Javascript challenges, where one must solve the problems from scratch. Aye! I will get through it though.
