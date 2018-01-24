@@ -107,3 +107,10 @@
 **Today's Progress**: Lots more work with Javascript. Worked with regular expressions and different array and string methods.
 
 **Thoughts:** Feeling good. But tomorrow starts the Javascript challenges, where one must solve the problems from scratch. Aye! I will get through it though.
+
+### R1D17: 1/24/18
+
+**Today's Progress**: I completed two algorithm challenges on freeCodeCamp. Reversing a string and factorializing a number.
+
+**Thoughts:** ...I actually completed two challenges!! I looked up the answer afterwards to compare what I did - my code is a bit convoluted, but it got there! I'll get better and more efficient as time goes by and as I remember the full functionality of certain code.
+
