@@ -114,3 +114,8 @@
 
 **Thoughts:** ...I actually completed two challenges!! I looked up the answer afterwards to compare what I did - my code is a bit convoluted, but it got there! I'll get better and more efficient as time goes by and as I remember the full functionality of certain code.
 
+### R1D18: 1/25/18
+
+**Today's Progress**: I worked on a palindrome algorithm on freeCodeCamp. I'm nearly there. Still need to return a few different options as "true" that are currently returning "false."
+
+**Thoughts:** My code is so not efficient. I guess I didn't realize I could combine multiple methods, for some reason. I'm going to return to the code tomorrow and clean it up.
