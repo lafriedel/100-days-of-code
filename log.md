@@ -119,3 +119,9 @@
 **Today's Progress**: I worked on a palindrome algorithm on freeCodeCamp. I'm nearly there. Still need to return a few different options as "true" that are currently returning "false."
 
 **Thoughts:** My code is so not efficient. I guess I didn't realize I could combine multiple methods, for some reason. I'm going to return to the code tomorrow and clean it up.
+
+### R1D19: 1/26/18
+
+**Today's Progress**: I worked through a couple more algorithms in freeCodeCamp: Check for palindromes and find the longest word in a string.
+
+**Thoughts:** Even though I got through them I had to look up lots of hints. I think I'm going to go back and redo some of these. Seems like I'm still not grasping some basic concepts. It might be helpful for me to do some supplemental reading as well.
