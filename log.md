@@ -125,3 +125,9 @@
 **Today's Progress**: I worked through a couple more algorithms in freeCodeCamp: Check for palindromes and find the longest word in a string.
 
 **Thoughts:** Even though I got through them I had to look up lots of hints. I think I'm going to go back and redo some of these. Seems like I'm still not grasping some basic concepts. It might be helpful for me to do some supplemental reading as well.
+
+### R1D20: 1/28/18
+
+**Today's Progress**: I went back to the first algorithm to start working through them again. I want to make sure I understand the concepts without having to look up answer hints. I got through reversing a string, and I'm continuing to retry the factorializing algorithm. 
+
+**Thoughts:** I'm feeling a bit discouraged today. I think I just need to read more about the logic of loops, and how they store information and iterate.
