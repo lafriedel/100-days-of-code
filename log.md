@@ -131,3 +131,15 @@
 **Today's Progress**: I went back to the first algorithm to start working through them again. I want to make sure I understand the concepts without having to look up answer hints. I got through reversing a string, and I'm continuing to retry the factorializing algorithm. 
 
 **Thoughts:** I'm feeling a bit discouraged today. I think I just need to read more about the logic of loops, and how they store information and iterate.
+
+### R1D21: 1/29/18
+
+**Today's Progress**:  I went back to the previous algorithms and worked through them. Now I'm on an algorithm to create a sentence with title case.
+
+**Thoughts:** I'm better understanding for loops, which feels good.
+
+### R1D22: 1/30/18
+
+**Today's Progress**:  Worked through an algorithm to find the longest word in a string and to title case a string, and went back and edited a couple previous algorithms to make them more efficient. I had to look up a couple hints, but it was mainly due to needing methods that I hadn't already learned.
+
+**Thoughts:** I feel like I'm slowly getting better. I still have an incredible amount of things to learn, but I feel just a little bit closer.
