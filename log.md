@@ -143,3 +143,9 @@
 **Today's Progress**:  Worked through an algorithm to find the longest word in a string and to title case a string, and went back and edited a couple previous algorithms to make them more efficient. I had to look up a couple hints, but it was mainly due to needing methods that I hadn't already learned.
 
 **Thoughts:** I feel like I'm slowly getting better. I still have an incredible amount of things to learn, but I feel just a little bit closer.
+
+### R1D23: 1/31/18
+
+**Today's Progress**:  Worked through an algorithms using .substr() and .repeat().
+
+**Thoughts:** They were simpler algorithms, but I'm feeling accomplished. 
