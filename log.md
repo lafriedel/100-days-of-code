@@ -146,6 +146,12 @@
 
 ### R1D23: 1/31/18
 
-**Today's Progress**:  Worked through an algorithms using .substr() and .repeat().
+**Today's Progress**:  Worked through algorithms using .substr() and .repeat().
 
 **Thoughts:** They were simpler algorithms, but I'm feeling accomplished. 
+
+### R1D24: 2/1/18
+
+**Today's Progress**:  Worked through algorithms to truncate a string and to divide one array into a multi-dimensional array.
+
+**Thoughts:** I was nearly able to do these two without looking up answers. I knew what methods I needed to use and where to include them in the code, but I'm still lacking on syntax knowledge.
