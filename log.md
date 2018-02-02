@@ -155,3 +155,9 @@
 **Today's Progress**:  Worked through algorithms to truncate a string and to divide one array into a multi-dimensional array.
 
 **Thoughts:** I was nearly able to do these two without looking up answers. I knew what methods I needed to use and where to include them in the code, but I'm still lacking on syntax knowledge.
+
+### R1D25: 2/2/18
+
+**Today's Progress**:  Tried to solve an algorithm to no avail.
+
+**Thoughts:** Sigh. On the plus side, I've made it a quarter of the way through my challenge.
