@@ -167,3 +167,9 @@
 **Today's Progress**:  I solved an algorithm without looking at any hints! It is to determine where a number fits into a numerically-sorted array, and then return its index.
 
 **Thoughts:** After my previous day of frustration (mostly with .filter() and callback functions - I really need help understanding these), this makes me feel better. I'm still totally struggling with understanding .filter() and its proper syntax and capabilities.
+
+### R1D27: 2/4/18
+
+**Today's Progress**:  I worked on and completed an ROT13 algorithm. Now moving onto basics of JSON and Ajax.
+
+**Thoughts:** I am definitely going to need to review the JavaScript algorithms, but I want to give my brain something else to think about for a bit. I'll probably review them before or as I work on the intermediate front end development projects.
