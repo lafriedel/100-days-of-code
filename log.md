@@ -161,3 +161,9 @@
 **Today's Progress**:  Tried to solve an algorithm to no avail.
 
 **Thoughts:** Sigh. On the plus side, I've made it a quarter of the way through my challenge.
+
+### R1D26: 2/3/18
+
+**Today's Progress**:  I solved an algorithm without looking at any hints! It is to determine where a number fits into a numerically-sorted array, and then return its index.
+
+**Thoughts:** After my previous day of frustration (mostly with .filter() and callback functions - I really need help understanding these), this makes me feel better. I'm still totally struggling with understanding .filter() and its proper syntax and capabilities.
