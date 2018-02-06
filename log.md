@@ -173,3 +173,9 @@
 **Today's Progress**:  I worked on and completed an ROT13 algorithm. Now moving onto basics of JSON and Ajax.
 
 **Thoughts:** I am definitely going to need to review the JavaScript algorithms, but I want to give my brain something else to think about for a bit. I'll probably review them before or as I work on the intermediate front end development projects.
+
+### R1D28: 2/5/18
+
+**Today's Progress**:  Reviewed the remaining pages on JSON and Ajax on freeCodeCamp and began thinking about my first intermediate project: random quote generator.
+
+**Thoughts:** Didn't get much actual coding done, but I took time to consider the type of quote machine I want to create so that I'm personally invested. I'm looking forward to getting it started.
