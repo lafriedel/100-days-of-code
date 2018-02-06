@@ -1,4 +1,4 @@
-# Learning Resources - CNC2018
+# Resources - CNC2018
 
 This is a running list of resources for easy reference.
 
@@ -15,6 +15,12 @@ For copying and pasting:
 **Name**: Medium: How I made "Random Quote Machine" \
 **Link**: https://medium.com/@ekogoca/how-i-made-random-quote-machine-dd2933360c95 \
 **Description**: A personal account of creating the random quote machine project.
+
+## CSS
+
+**Name**: CSS Tricks' Complete Guide to CSS Grid \
+**Link**: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) \
+**Description**: Title says it all. 
 
 ## Graphics
 
