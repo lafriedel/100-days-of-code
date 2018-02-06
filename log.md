@@ -179,3 +179,11 @@
 **Today's Progress**:  Reviewed the remaining pages on JSON and Ajax on freeCodeCamp and began thinking about my first intermediate project: random quote generator.
 
 **Thoughts:** Didn't get much actual coding done, but I took time to consider the type of quote machine I want to create so that I'm personally invested. I'm looking forward to getting it started.
+
+### R1D29: 2/6/18
+
+**Today's Progress**: I began the Random Quote Machine project. I wanted to get the basic HTML and CSS (for layout) set up. I read some tutorials on CSS Grid and implemented basic ideas from them.
+
+**Thoughts**: While I'm barely scratching the surface of CSS Grid and Flexbox, it felt good to get a basic handle on it and see the layout changing as I played with the code. I'm sure I will make lots of changes as I clean it up. It was also nice to have more time to code today. I spent about 5 hours coding and reading tutorials.
+
+**Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
