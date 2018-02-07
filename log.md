@@ -187,3 +187,11 @@
 **Thoughts**: While I'm barely scratching the surface of CSS Grid and Flexbox, it felt good to get a basic handle on it and see the layout changing as I played with the code. I'm sure I will make lots of changes as I clean it up. It was also nice to have more time to code today. I spent about 5 hours coding and reading tutorials.
 
 **Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
+
+### R1D30: 2/7/18
+
+**Today's Progress**: I got the random quote functionality to work! The JavaScript was easier than I expected. So, currently, when you first visit the page it starts at a random quote, and then every time the "New Quote" button is pressed it displays a new one. I decided to use a nested array with the quote and author as separate object properties instead of accessing an API. I moved onto trying to implement the tweeting functionality and got really stuck, so I'm learning more about AJAX and JSON.
+
+**Thoughts**: I am so excited that the JavaScript works! It's the simplest thing, but it felt awesome to see it working live. The JSON and AJAX stuff was feeling overwhelming, but as I'm going through a simple video tutorial I'm already understanding it a bit better.
+
+**Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
