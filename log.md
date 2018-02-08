@@ -195,3 +195,9 @@
 **Thoughts**: I am so excited that the JavaScript works! It's the simplest thing, but it felt awesome to see it working live. The JSON and AJAX stuff was feeling overwhelming, but as I'm going through a simple video tutorial I'm already understanding it a bit better.
 
 **Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
+
+### R1D31: 2/8/18
+
+**Today's Progress**: I'm using Udacity's Intro to AJAX minicourse to learn about AJAX and JSON so I can continue with my quote machine. I worked through some of the tutorial -- I successfully accessed data from Google Street View Image API and now I'm working on the New York Times Article Search API.
+
+**Thoughts**: It's slowly starting to make sense...having the Street View Image API work was really awesome. Again, simple, but it felt so good to test it out and see it really work.
