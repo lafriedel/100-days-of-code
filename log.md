@@ -201,3 +201,9 @@
 **Today's Progress**: I'm using Udacity's Intro to AJAX minicourse to learn about AJAX and JSON so I can continue with my quote machine. I worked through some of the tutorial -- I successfully accessed data from Google Street View Image API and now I'm working on the New York Times Article Search API.
 
 **Thoughts**: It's slowly starting to make sense...having the Street View Image API work was really awesome. Again, simple, but it felt so good to test it out and see it really work.
+
+### R1D32: 2/9/18
+
+**Today's Progress**: I successfully accessed the NY Times Article Search API with the tutorial.
+
+**Thoughts**: I'm not sure if this is enough experience to try the Twitter API out, but I'm going to give it a shot. I at least seem to understand how JSON data is accessed now, which is better than two days ago!
