@@ -207,3 +207,9 @@
 **Today's Progress**: I successfully accessed the NY Times Article Search API with the tutorial.
 
 **Thoughts**: I'm not sure if this is enough experience to try the Twitter API out, but I'm going to give it a shot. I at least seem to understand how JSON data is accessed now, which is better than two days ago!
+
+### R1D33: 2/10/18
+
+**Today's Progress**: I worked on implementing a Tweet Web Intent from Twitter's dev docs. Running into trouble getting the text of the tweet showing up...but the hashtags load fine.
+
+**Thoughts**: I realized halfway through that I didn't actually need to send an AJAX request to do what I needed to do...so I felt kind of dumb. I finally found the proper documentation on Twitter's dev site, which helped, but I'm still having trouble getting it properly coded. It's frustrating. I might code more tonight but I think I need to step away from it for a bit.
