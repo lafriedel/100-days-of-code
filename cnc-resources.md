@@ -18,9 +18,13 @@ For copying and pasting:
 
 ## CSS
 
-**Name**: CSS Tricks' Complete Guide to CSS Grid \
-**Link**: [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) \
+**Name**: CSS Tricks' A Complete Guide to CSS Grid \
+**Link**: https://css-tricks.com/snippets/css/complete-guide-grid/ \
 **Description**: Title says it all. 
+
+**Name**: CSS Reference's List of CSS Grid Properties \
+**Link**: https://cssreference.io/css-grid/ \
+**Description**: Another good resource all about CSS Grid.
 
 ## Graphics
 
@@ -35,6 +39,16 @@ For copying and pasting:
 **Name**: How to Hand Code SVG \
 **Link**: https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368 \
 **Description**: A tutorial on how to create SVG icons from scratch.
+
+## APIs
+
+**Name**: Programmable Web \
+**Link**: https://www.programmableweb.com/ \
+**Description**: A searchable list of APIs.
+
+**Name**: Mashape Marketplace \
+**Link**: https://market.mashape.com/ \
+**Description**: Large marketplace of free APIs.
 
 ## Computer Science
 
