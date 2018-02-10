@@ -32,6 +32,10 @@ For copying and pasting:
 **Link**: http://adamwhitcroft.com/climacons/ \
 **Description**: Set of 75 weather-related icons, available in multiple filetypes.
 
+**Name**: How to Hand Code SVG \
+**Link**: https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368 \
+**Description**: A tutorial on how to create SVG icons from scratch.
+
 ## Computer Science
 
 **Name**: CS50's Introduction to Computer Science on edX \
