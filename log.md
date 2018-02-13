@@ -229,3 +229,11 @@
 **Thoughts**: The positioning issues are slightly frustrating, but I know that it's because I don't fully understand Flexbox and Grid yet.
 
 **Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
+
+### R1D36: 2/13/18
+
+**Today's Progress**: Quote Machine: I made minor changes to the layout + implemented basic responsive design using media queries, though it's not comprehensive. I'm considering the project complete for now, and I've moved onto the next freeCodeCamp challenge -- "Show the Local Weather."
+
+**Thoughts**: I feel really good about the quote machine! Functionally it works, which is a great feeling. I like the look of it too. I tested it on different iOS devices that I have available to me and it doesn't look quite right on my older iPad mini. I'd eventually like to fix it, but that means taking a deeper dive into CSS layout design. It's something I want to learn for sure, but I'll come back to it.
+
+**Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
