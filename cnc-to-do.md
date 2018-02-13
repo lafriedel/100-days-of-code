@@ -2,6 +2,13 @@
 
 As I encounter new concepts, lessons, or topics to research later, I will document them here.
 
+## CSS
+
+* Learn more about layout possibilities -- *Date added: February 13, 2018*
+   * CSS Flexbox
+   * CSS Grid
+   * Responsive Design
+
 ## JavaScript
 
 * Review JavaScript basics -- *Date added: February 6, 2018*
