@@ -221,3 +221,11 @@
 **Thoughts**: I'm so excited that I got the tweet functionality to work properly! I just needed a fresh mind after being frustrated and feeling stuck yesterday.
 
 **Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
+
+### R1D35: 2/12/18
+
+**Today's Progress**: I worked on styling the page for Random Quote Machine. I am trying to figure out some positioning issues - but other than that, the project is done.
+
+**Thoughts**: The positioning issues are slightly frustrating, but I know that it's because I don't fully understand Flexbox and Grid yet.
+
+**Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
