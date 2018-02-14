@@ -237,3 +237,9 @@
 **Thoughts**: I feel really good about the quote machine! Functionally it works, which is a great feeling. I like the look of it too. I tested it on different iOS devices that I have available to me and it doesn't look quite right on my older iPad mini. I'd eventually like to fix it, but that means taking a deeper dive into CSS layout design. It's something I want to learn for sure, but I'll come back to it.
 
 **Link to Work:** [Random Quote Machine](https://codepen.io/lafriedel/pen/ZrpLdJ)
+
+### R1D37: 2/14/18
+
+**Today's Progress**: I spent a long time coding yesterday and set up my JavaScript to receive and display the appropriate JSON data for my weather app. Today I built upon it; I worked on the function to toggle between Celsius and Fahrenheit.
+
+**Thoughts**: Now that I'm doing a bit more JavaScript I'm feeling the learning curve a bit. However, it's going MUCH more smoothly. I can tell that I better understand documentation. So, it feels good. I think I need to spend a lot more time looking at documentation so I can better understand JavaScript and jQuery's capabilities.
