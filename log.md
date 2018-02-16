@@ -243,3 +243,11 @@
 **Today's Progress**: I spent a long time coding yesterday and set up my JavaScript to receive and display the appropriate JSON data for my weather app. Today I built upon it; I worked on the function to toggle between Celsius and Fahrenheit.
 
 **Thoughts**: Now that I'm doing a bit more JavaScript I'm feeling the learning curve a bit. However, it's going MUCH more smoothly. I can tell that I better understand documentation. So, it feels good. I think I need to spend a lot more time looking at documentation so I can better understand JavaScript and jQuery's capabilities.
+
+### R1D38: 2/15/18
+
+**Today's Progress**: I completed the function to toggle between F and C on my weather app! It took a while and a lot of trial and error. I also cleaned up my JavaScript - got rid of unnecessary snippets, consolidated where I could and where I knew how.
+
+**Thoughts**: Getting a continuous toggle between C and F literally made me cackle like a super-villain. I know that's super dorky, but when I get JavaScript/jQuery to work it's almost like an adrenaline rush. I am looking forward to making the app pretty over the next couple of days.
+
+**Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
