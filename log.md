@@ -251,3 +251,11 @@
 **Thoughts**: Getting a continuous toggle between C and F literally made me cackle like a super-villain. I know that's super dorky, but when I get JavaScript/jQuery to work it's almost like an adrenaline rush. I am looking forward to making the app pretty over the next couple of days.
 
 **Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
+
+### R1D39: 2/17/18
+
+**Today's Progress**: I wrote a function with a switch statement to get the replacement icons to show up on the page. In theory it works. but I'm having trouble with them displaying. It seems to be based on the filetype - a PNG worked while a SVG currently does not, but I want to use SVG. Need to figure out what's different about what I need to do.
+
+**Thoughts**: A little annoyed that I can't get the SVG from Github to display properly, but I'm at least proud of the function I wrote!
+
+**Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
