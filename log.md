@@ -259,3 +259,11 @@
 **Thoughts**: A little annoyed that I can't get the SVG from Github to display properly, but I'm at least proud of the function I wrote!
 
 **Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
+
+### R1D40: 2/18/18
+
+**Today's Progress**: I read a bit more about SVG with no success, so I decided to use PNG versions of the icons. These display successfully.
+
+**Thoughts**: I'm definitely going to have to learn more about SVG. But for now I just want to move on with this project.
+
+**Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
