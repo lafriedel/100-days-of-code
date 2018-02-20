@@ -275,3 +275,10 @@
 **Thoughts**: Happy to have this marked off!
 
 **Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
+
+### R1D42: 2/20/18
+
+**Today's Progress**: I went back and finished Udacity's Intro to AJAX course so I could have an introduction to using the Wikipedia API, which is involved in freeCodeCamp's next project. I learned how to use .ajax() instead of .getJSON(), which is what I used in the weather app.
+
+**Thoughts**: I wish did more actual coding today, but this was helpful. I look forward to starting my project tomorrow.
+
