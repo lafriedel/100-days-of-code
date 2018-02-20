@@ -267,3 +267,11 @@
 **Thoughts**: I'm definitely going to have to learn more about SVG. But for now I just want to move on with this project.
 
 **Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
+
+### R1D41: 2/19/18
+
+**Today's Progress**: I finished styling the weather app!
+
+**Thoughts**: Happy to have this marked off!
+
+**Link to Work:** [Local Weather App](https://codepen.io/lafriedel/pen/gvxgdw)
