@@ -282,3 +282,10 @@
 
 **Thoughts**: I wish did more actual coding today, but this was helpful. I look forward to starting my project tomorrow.
 
+### R1D43: 2/21/18
+
+**Today's Progress**: I started setting up the Wikipedia Search page with some HTML and CSS. Learned about forms and styling them.
+
+**Thoughts**: I have an idea of how I want the page to look; I really want to work on the design of the page for this project, as that was pushed a bit to the side in the last app.
+
+**Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
