@@ -289,3 +289,11 @@
 **Thoughts**: I have an idea of how I want the page to look; I really want to work on the design of the page for this project, as that was pushed a bit to the side in the last app.
 
 **Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
+
+### R1D44: 2/22/18
+
+**Today's Progress**: I got a successful response from my AJAX requests to the Wikipedia API and are triggered at the appropriate time; now working on getting the proper data to display.
+
+**Thoughts**: I'm kind of unsure of how to go about what I want to do, but I know it exists somewhere.
+
+**Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
