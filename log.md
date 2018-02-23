@@ -297,3 +297,11 @@
 **Thoughts**: I'm kind of unsure of how to go about what I want to do, but I know it exists somewhere.
 
 **Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
+
+### R1D45: 2/23/18
+
+**Today's Progress**: Nothing. I am stuck on getting the results to append properly to the HTML. In Chrome, they show up and then disappear after a moment.
+
+**Thoughts**: I'm so incredibly frustrated. This is my first big annoying bug in any of my projects.
+
+**Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
