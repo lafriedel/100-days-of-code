@@ -305,3 +305,9 @@
 **Thoughts**: I'm so incredibly frustrated. This is my first big annoying bug in any of my projects.
 
 **Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
+
+### R1D46: 2/24/18
+
+**Today's Progress**: I needed a break from that bug, so I decided to visit something on my to-do list: reading more in-depth about HTML hierarchy and semantic HTML. I worked on a practice page for this.
+
+**Thoughts**: It's nice to take a break from a problem that's bugging me. 
