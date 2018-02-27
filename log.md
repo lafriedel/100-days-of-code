@@ -311,3 +311,11 @@
 **Today's Progress**: I needed a break from that bug, so I decided to visit something on my to-do list: reading more in-depth about HTML hierarchy and semantic HTML. I worked on a practice page for this.
 
 **Thoughts**: It's nice to take a break from a problem that's bugging me. 
+
+### R1D47: 2/26/18
+
+**Today's Progress**: Finally progressed on my Wikipedia page! The lovely people of Twitter helped me out and told me what was messed up with my code. Fixed it and continued on!
+
+**Thoughts**: I love how supportive Twitter is! It was really lovely. It really was a simple oversight (the type of button I was using was messing things up!), but having that community is priceless. Also -- whoops, I missed more than 1 day within 14 days. I'm gonna tack on a couple days at the end AND practice extra this week.
+
+**Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
