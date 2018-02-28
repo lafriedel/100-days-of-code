@@ -319,3 +319,9 @@
 **Thoughts**: I love how supportive Twitter is! It was really lovely. It really was a simple oversight (the type of button I was using was messing things up!), but having that community is priceless. Also -- whoops, I missed more than 1 day within 14 days. I'm gonna tack on a couple days at the end AND practice extra this week.
 
 **Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
+
+### R1D48: 2/27/18
+
+**Today's Progress**: I went through Thinkful's trial course, learning more about semantic HTML and a11y issues. Refactored code I had written for the course previously to account for some a11y needs.
+
+**Thoughts**: I am testing out Thinkful's trial because I am considering studying with them, and so far it's good. I do appreciate having things written out thoroughly, but at the same time it isn't overwhelming -- though that might be due to the fact I already feel pretty comfortable with HTML basics.
