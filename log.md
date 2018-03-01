@@ -325,3 +325,11 @@
 **Today's Progress**: I went through Thinkful's trial course, learning more about semantic HTML and a11y issues. Refactored code I had written for the course previously to account for some a11y needs.
 
 **Thoughts**: I am testing out Thinkful's trial because I am considering studying with them, and so far it's good. I do appreciate having things written out thoroughly, but at the same time it isn't overwhelming -- though that might be due to the fact I already feel pretty comfortable with HTML basics.
+
+### R1D49: 2/28/18
+
+**Today's Progress**: I worked on styling my Wikipedia app. Still working on it, but having a good time. Realizing I'll need to add some JavaScript to let the Enter key also mean submitting the Go button.
+
+**Thoughts**: I'm feeling like I'm piecemealing CSS, where I want to have a better understanding of certain concepts, like Grid and Flexbox. It's all still on my to-do list! I need to maybe commit like an entire weekend day to learning them.
+
+**Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
