@@ -333,3 +333,9 @@
 **Thoughts**: I'm feeling like I'm piecemealing CSS, where I want to have a better understanding of certain concepts, like Grid and Flexbox. It's all still on my to-do list! I need to maybe commit like an entire weekend day to learning them.
 
 **Link to Work:** [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
+
+### R1D50: 3/1/18
+
+**Today's Progress**: I worked through some of Thinkful's CSS lessons. I read about the basics of CSS and played with font, background, and image properties. I also learned what border-box is!
+
+**Thoughts**: I know a bit of this stuff already, but it was good to review the basics of CSS. I learned some new things, which feels good, however simple it may be.
