@@ -339,3 +339,9 @@
 **Today's Progress**: I worked through some of Thinkful's CSS lessons. I read about the basics of CSS and played with font, background, and image properties. I also learned what border-box is!
 
 **Thoughts**: I know a bit of this stuff already, but it was good to review the basics of CSS. I learned some new things, which feels good, however simple it may be.
+
+### R1D51: 3/2/18
+
+**Today's Progress**: I worked through more CSS lessons on Thinkful. I learned about making gradients and shadows!
+
+**Thoughts**: I'm trying to get through their trial lesson before my two weeks are up. Feeling good about that.
