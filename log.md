@@ -345,3 +345,10 @@
 **Today's Progress**: I worked through more CSS lessons on Thinkful. I learned about making gradients and shadows!
 
 **Thoughts**: I'm trying to get through their trial lesson before my two weeks are up. Feeling good about that.
+
+### R1D52: 3/3/18
+
+**Today's Progress**: I learned about the different types of CSS selectors on Thinkful and did some drills to practice them. I played around on [CSS Diner](http://flukeout.github.io/) to learn about other selectors not covered.
+
+**Thoughts**: I'm realizing how powerful CSS can be. It's pretty cool.
+
