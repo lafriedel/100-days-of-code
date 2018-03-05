@@ -352,3 +352,8 @@
 
 **Thoughts**: I'm realizing how powerful CSS can be. It's pretty cool.
 
+### R1D53: 3/4/18
+
+**Today's Progress**: I worked on some CSS layout lessons on Thinkful, mainly using the display property. Horizontal alignment was discussed as well. I ended the session with doing an exercise to code a design that Thinkful provided.
+
+**Thoughts**: I'm starting to get the more basic, fundamental understanding of CSS that I desired.
