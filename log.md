@@ -357,3 +357,9 @@
 **Today's Progress**: I worked on some CSS layout lessons on Thinkful, mainly using the display property. Horizontal alignment was discussed as well. I ended the session with doing an exercise to code a design that Thinkful provided.
 
 **Thoughts**: I'm starting to get the more basic, fundamental understanding of CSS that I desired.
+
+### R1D54: 3/5/18
+
+**Today's Progress**: I read about the position property, and then attempted to work on a layout challenge on Thinkful. I got part of the way there - Thinkful challenges us to spend an hour or less; I've got about 40 minutes in.
+
+**Thoughts**: Whew! I definitely need practice with the position property.
