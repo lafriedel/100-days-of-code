@@ -372,3 +372,9 @@
 
 
 **Link to Work:** [Position Property Drill](https://codepen.io/lafriedel/pen/VQdZqw)http://lafriedel.repl.co/position-property-drill/)
+
+### R1D56: 3/7/18
+
+**Today's Progress**: I began Thinkful's "from design to code" challenge. They've provided a design of a search results page and I have to code it to match.
+
+**Thoughts**: They want us to spend no more than 3 hours on this - about an hour in, I'm feeling fairly close. I just have some layout issues to figure out.
