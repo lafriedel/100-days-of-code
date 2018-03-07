@@ -363,3 +363,12 @@
 **Today's Progress**: I read about the position property, and then attempted to work on a layout challenge on Thinkful. I got part of the way there - Thinkful challenges us to spend an hour or less; I've got about 40 minutes in.
 
 **Thoughts**: Whew! I definitely need practice with the position property.
+
+### R1D55: 3/6/18
+
+**Today's Progress**: I finished the layout challenge on Thinkful. I was having trouble positioning the cat and dog (click link for reference) but realized I needed to structure the HTML differently.
+
+**Thoughts**: This was...very important work. Link below.
+
+
+**Link to Work:** [Position Property Drill](https://codepen.io/lafriedel/pen/VQdZqw)http://lafriedel.repl.co/position-property-drill/)
