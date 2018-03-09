@@ -378,3 +378,9 @@
 **Today's Progress**: I began Thinkful's "from design to code" challenge. They've provided a design of a search results page and I have to code it to match.
 
 **Thoughts**: They want us to spend no more than 3 hours on this - about an hour in, I'm feeling fairly close. I just have some layout issues to figure out.
+
+### R1D57: 3/8/18
+
+**Today's Progress**: Continued working on the challenge from the previous day. I've basically got it, but there's some weird things going on in my nav and with my button that I've gotta figure out.
+
+**Thoughts**: I seem to understand CSS styling fairly well, it's just layout positioning that I'm still struggling with.
