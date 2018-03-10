@@ -384,3 +384,13 @@
 **Today's Progress**: Continued working on the challenge from the previous day. I've basically got it, but there's some weird things going on in my nav and with my button that I've gotta figure out.
 
 **Thoughts**: I seem to understand CSS styling fairly well, it's just layout positioning that I'm still struggling with.
+
+### R1D58: 3/9/18
+
+**Today's Progress**: Continued working on the challenge from the previous day. I solved most of the issues, but probably in not the best ways.
+
+**Thoughts**: Still having a stubborn button that won't style. I don't get it!
+
+**Link to Work**: [Greg's List](https://repl.it/@lafriedel/Gregslist)
+
+
