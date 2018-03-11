@@ -393,4 +393,10 @@
 
 **Link to Work**: [Greg's List](https://repl.it/@lafriedel/Gregslist)
 
+### R1D59: 3/10/18
 
+**Today's Progress**: I finished the Greg's List project. Looked over Thinkful's solution and did an informal code review on my own work. I then spent time reviewing the poisition and display properties.
+
+**Thoughts**: Position and display properties are things I'll need to keep working on. Also, I think I need to get better at structuring my HTML better so that CSS makes more sense and lets my project potentially be scalable.
+
+**Link to Work**: [Greg's List](https://repl.it/@lafriedel/Gregslist)
