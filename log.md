@@ -408,3 +408,9 @@
 **Thoughts**: I'd like to get the Enter key function to work, but I'm also not too worried about it. Trying to not learn everything at once. Baby steps.
 
 **Link to Work**: [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
+
+### R1D61: 3/12/18
+
+**Today's Progress**: I began the last intermediate freeCodeCamp front-end project, which is accessing and displaying information from TwitchTV's API. I must display which streams are currently live, plus some other details. I set up some basic HTML and started playing with the API data.
+
+**Thoughts**: The daylight savings transition has my brain moving a bit slower this morning...whew.
