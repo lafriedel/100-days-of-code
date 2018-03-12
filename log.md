@@ -391,7 +391,7 @@
 
 **Thoughts**: Still having a stubborn button that won't style. I don't get it!
 
-**Link to Work**: [Wikipedia Search](https://repl.it/@lafriedel/Gregslist)
+**Link to Work**: [Greg's List](https://repl.it/@lafriedel/Gregslist)
 
 ### R1D59: 3/10/18
 
@@ -407,4 +407,4 @@
 
 **Thoughts**: I'd like to get the Enter key function to work, but I'm also not too worried about it. Trying to not learn everything at once. Baby steps.
 
-**Link to Work**: [Greg's List](https://codepen.io/lafriedel/pen/VQdZqw)
+**Link to Work**: [Wikipedia Search](https://codepen.io/lafriedel/pen/VQdZqw)
