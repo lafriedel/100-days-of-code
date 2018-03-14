@@ -414,3 +414,11 @@
 **Today's Progress**: I began the last intermediate freeCodeCamp front-end project, which is accessing and displaying information from TwitchTV's API. I must display which streams are currently live, plus some other details. I set up some basic HTML and started playing with the API data.
 
 **Thoughts**: The daylight savings transition has my brain moving a bit slower this morning...whew.
+
+### R1D62: 3/13/18
+
+**Today's Progress**: I wrote some jQuery functions to start collecting and displaying data. 
+
+**Thoughts**: I have an error somewhere. It has something to do with the last index of the username array displaying when I append the HTML, though the data is displaying correctly. I'm working on this pretty late in the night, so I'm gonna revisit it fresh in the morning.
+
+**Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
