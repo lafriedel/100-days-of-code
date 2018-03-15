@@ -422,3 +422,11 @@
 **Thoughts**: I have an error somewhere. It has something to do with the last index of the username array displaying when I append the HTML, though the data is displaying correctly. I'm working on this pretty late in the night, so I'm gonna revisit it fresh in the morning.
 
 **Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
+
+### R1D63: 3/15/18
+
+**Today's Progress**: I tried to debug the issue from the previous day with no success. I do know where it's happening, but I don't know how to fix it. 
+
+**Thoughts**: Kind of frustrating to not know how to fix this issue. But, I feel empowered knowing where it is - I'm sure it's a very simple fix. I'm sure some digging on the internet will reveal the answer. :)
+
+**Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
