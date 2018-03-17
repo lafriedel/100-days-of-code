@@ -430,3 +430,11 @@
 **Thoughts**: Kind of frustrating to not know how to fix this issue. But, I feel empowered knowing where it is - I'm sure it's a very simple fix. I'm sure some digging on the internet will reveal the answer. :)
 
 **Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
+
+### R1D64: 3/17/18
+
+**Today's Progress**: I fixed my issue! All by myself! I wrote slightly different -- and more efficient -- code to get the results I wanted. :) So got the JavaScript to where I wanted it, and started working on CSS styling.
+
+**Thoughts**: I feel so happy that I was able to edit my code to get the result I wanted! I'm getting better and more knowledgeable and it just feels great.
+
+**Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
