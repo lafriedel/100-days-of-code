@@ -438,3 +438,11 @@
 **Thoughts**: I feel so happy that I was able to edit my code to get the result I wanted! I'm getting better and more knowledgeable and it just feels great.
 
 **Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
+
+### R1D65: 3/18/18
+
+**Today's Progress**: I finished up the Twitch TV API project.
+
+**Thoughts**: I'm glad I got this done! I wanted to get this project done this week but wasn't sure I would. This is the last intermediate web development project on freeCodeCamp until I get to the advanced ones, which is kinda crazy!
+
+**Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
