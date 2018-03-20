@@ -446,3 +446,9 @@
 **Thoughts**: I'm glad I got this done! I wanted to get this project done this week but wasn't sure I would. This is the last intermediate web development project on freeCodeCamp until I get to the advanced ones, which is kinda crazy!
 
 **Link to Work**: [TwitchTV Streaming Status](https://codepen.io/lafriedel/pen/RMPmJK)
+
+### R1D66: 3/19/18
+
+**Today's Progress**: I figured out my first intermediate algorithm - being provided a low and high number; determining the numbers between them, and then adding them all together. It utilized Math.min(), Math.max(), a for loop, and .reduce().
+
+**Thoughts**: I'm really proud of myself for figuring out the solution without looking at any hints! 
