@@ -2,11 +2,11 @@
 
 This is a running list of resources for easy reference.
 
-For copying and pasting:
-
+<!---
 **Name**: \
 **Link**: \
 **Description**:
+--->
 
 ## Project-Specific
 
@@ -78,6 +78,12 @@ For copying and pasting:
 **Link**: https://css-tricks.com/box-sizing/ + https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ \
 **Description**: How to utilize box-sizing in layouts.
 
+## Javascript
+
+**Name**: You Don't Know JS - 6 book series\
+**Link**: https://github.com/getify/You-Dont-Know-JS \
+**Description**: A series of books about Javascript with titles like "Scope & Closures" and "ES6 and Beyond."
+
 ## Graphics
 
 **Name**: Skycons \
@@ -122,3 +128,26 @@ For copying and pasting:
 **Link**: http://bulletjournal.com/ \
 **Description**: All about bullet journaling.
 
+## Career Switch to Tech
+
+**Name**: Making the career switch to a six-figure developer job with no technical background on r/jobs \
+**Link**: https://www.reddit.com/r/jobs/comments/3wv19n/making_the_career_switch_to_a_sixfigure_developer/ \
+**Description**: An anecdotal account of how a person transitioned into tech.
+
+**Name**: Why Learning to Code Is So Damn Hard by Erik Trautman \
+**Link**: http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard \
+**Description**: An article about making the switch. Kait Moreno recommended this article to me.
+
+## Courses
+
+### Multiple
+
+**Name**: Code School \
+**Link**: https://www.codeschool.com/ \
+**Description**: "The interactive learning destination for aspiring and experienced developers." Recommended by Kait Moreno.
+
+### Javascript 
+
+**Name**: Wes Bos's Javascript30 \
+**Link**: https://javascript30.com/ \
+**Description**: Build 30 products in vanilla JS in 30 days. 
