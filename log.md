@@ -452,3 +452,9 @@
 **Today's Progress**: I figured out my first intermediate algorithm - being provided a low and high number; determining the numbers between them, and then adding them all together. It utilized Math.min(), Math.max(), a for loop, and .reduce().
 
 **Thoughts**: I'm really proud of myself for figuring out the solution without looking at any hints! 
+
+### R1D67: 3/20/18
+
+**Today's Progress**: I attempted to figure out the next intermediate algorithm: "Diff Two Arrays," with no solution. I got a solution that works in some instances, but not all.
+
+**Thoughts**:  I was hoping my progress would be as smooth as yesterday, but I realize it's not always going to be like that. Sometimes I'm going to struggle for a while. I'm hoping some sleep will help me approach this with fresh eyes tomorrow.
