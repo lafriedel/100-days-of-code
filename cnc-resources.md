@@ -16,7 +16,43 @@ For copying and pasting:
 **Link**: https://medium.com/@ekogoca/how-i-made-random-quote-machine-dd2933360c95 \
 **Description**: A personal account of creating the random quote machine project.
 
+## The Internet
+
+**Name**: How the Web works from MDN \
+**Link**: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works \
+**Description**: An introduction to how the Internet works.
+
+**Name**: Web crawler from Wikipedia \
+**Link**: https://en.wikipedia.org/wiki/Web_crawler \
+**Description**: An article about web crawlers.
+
+## HTML
+
+**Name**: The global structure of an HTML document \
+**Link**: https://www.w3.org/TR/html4/struct/global.html#h-7.5.3\
+**Description**: Everything you need to know about structuring a proper HTML document.
+
+**Name**: Opening the Box Model \
+**Link**: https://learn.shayhowe.com/html-css/opening-the-box-model/ \
+**Description**: A thorough look into the box model and the display property.
+
+**Name**: Dive Into HTML5 by Mark Pilgrim \
+**Link**: http://diveinto.html5doctor.com/ \
+**Description**: A literary-style look into HTML5.
+
+**Name**: Using HTML Sections and Outlines from MDN \
+**Link**: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines \
+**Description**: A thorough description of how to structure web pages.
+
+**Name**: Getting to Know HTML \
+**Link**: https://learn.shayhowe.com/html-css/getting-to-know-html/ \
+**Description**: A deep dive into HTML on a well-designed page.
+
 ## CSS
+
+**Name**: Getting to Know CSS \
+**Link**: https://learn.shayhowe.com/html-css/getting-to-know-css/ \
+**Description**: The basics of CSS on presented in an easy-to-read format.
 
 **Name**: CSS Tricks' A Complete Guide to CSS Grid \
 **Link**: https://css-tricks.com/snippets/css/complete-guide-grid/ \
@@ -25,6 +61,22 @@ For copying and pasting:
 **Name**: CSS Reference's List of CSS Grid Properties \
 **Link**: https://cssreference.io/css-grid/ \
 **Description**: Another good resource all about CSS Grid.
+
+**Name**: CSS Diner \
+**Link**: http://flukeout.github.io/ \
+**Description**: An interactive page to practice using CSS selectors.
+
+**Name**: Learn CSS Layout \
+**Link**: http://learnlayout.com/ \
+**Description**: A tutorial on learning CSS layout.
+
+**Name**: Centering in CSS: A Complete Guide by CSS Tricks \
+**Link**: https://css-tricks.com/centering-css-complete-guide/ \
+**Description**: An organized page of all the options to center objects on webpages. Includes horizontal and vertical alignment.
+
+**Name**: Box Sizing by CSS Tricks \
+**Link**: https://css-tricks.com/box-sizing/ + https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ \
+**Description**: How to utilize box-sizing in layouts.
 
 ## Graphics
 
@@ -39,6 +91,14 @@ For copying and pasting:
 **Name**: How to Hand Code SVG \
 **Link**: https://webdesign.tutsplus.com/tutorials/how-to-hand-code-svg--cms-30368 \
 **Description**: A tutorial on how to create SVG icons from scratch.
+
+**Name**: Pixel Perfect Precision Handbook \
+**Link**: http://cdn.ustwo.com/PPP/PP3.pdf \
+**Description**: A thorough handbook on designing pixel-perfect graphics.
+
+**Name**: Inkscape \
+**Link**: https://inkscape.org/en/ \
+**Description**: Free and open source vector graphics editing software.
 
 ## APIs
 
