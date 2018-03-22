@@ -458,3 +458,9 @@
 **Today's Progress**: I attempted to figure out the next intermediate algorithm: "Diff Two Arrays," with no solution. I got a solution that works in some instances, but not all.
 
 **Thoughts**:  I was hoping my progress would be as smooth as yesterday, but I realize it's not always going to be like that. Sometimes I'm going to struggle for a while. I'm hoping some sleep will help me approach this with fresh eyes tomorrow.
+
+### R1D68: 3/21/18
+
+**Today's Progress**: I continued to try solutions for the algorithm. Didn't work - I peeked at the answer and I'm going to try coding it from scratch tomorrow. I also spent time earlier in the day going through all my open tabs and truly looking at them and adding them to the Resources page I created on this repo.
+
+**Thoughts**:  Feeling like I really need to read about Javascript fundamentals. I never really read through MDN's intro to JS and I feel like it will help. 
