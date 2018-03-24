@@ -464,3 +464,15 @@
 **Today's Progress**: I continued to try solutions for the algorithm. Didn't work - I peeked at the answer and I'm going to try coding it from scratch tomorrow. I also spent time earlier in the day going through all my open tabs and truly looking at them and adding them to the Resources page I created on this repo.
 
 **Thoughts**:  Feeling like I really need to read about Javascript fundamentals. I never really read through MDN's intro to JS and I feel like it will help. 
+
+### R1D69: 3/22/18 + 3/23/18
+
+**Today's Progress**: Really no good progress - I'm combining two calendar days into one 100 Days of Code day, because I only worked for about 30 minutes each day. I was really unfocused, had headaches both days, and didn't make really any progress. I tried working on a Roman Numeral conversion algorithm and when I got frustrated with that, I tried watching some of Wes Bos' Javascript30 and I had trouble focusing. I really just needed to go to bed.
+
+**Thoughts**:  I think I need to not code so late in the evening. I'm not a night owl. I waited until about 9pm on these days and it just isn't going to work for me.
+
+### R1D70: 3/24/18
+
+**Today's Progress**: I continued trying to work on the Roman Numerals algorithm, couldn't figure it out and looked at examples. But I'm really trying to understand it before I continue onto anything else.
+
+**Thoughts**: Doing it in the morning is much better! I guess I need to be consistent about that. I'm still thinking I need to read more about JS fundamentals.
