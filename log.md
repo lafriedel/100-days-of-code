@@ -476,3 +476,9 @@
 **Today's Progress**: I continued trying to work on the Roman Numerals algorithm, couldn't figure it out and looked at examples. But I'm really trying to understand it before I continue onto anything else.
 
 **Thoughts**: Doing it in the morning is much better! I guess I need to be consistent about that. I'm still thinking I need to read more about JS fundamentals.
+
+### R1D71: 3/25/18
+
+**Today's Progress**: I went back and re-coded the Roman Numerals algorithm and wrote out some pseudocode in my notebook until I understood what was happening. I then moved onto freeCodeCamp's next algorithm, which looks through an array of objects and checks it against a key/value pair. It looks for a match, and then needs to return the match if it exists.
+
+**Thoughts**: I'm still working on the code, but feeling focused and good about my attempts at it. I'm thinking I need to read more about Objects.
