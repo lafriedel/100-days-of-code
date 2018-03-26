@@ -482,3 +482,9 @@
 **Today's Progress**: I went back and re-coded the Roman Numerals algorithm and wrote out some pseudocode in my notebook until I understood what was happening. I then moved onto freeCodeCamp's next algorithm, which looks through an array of objects and checks it against a key/value pair. It looks for a match, and then needs to return the match if it exists.
 
 **Thoughts**: I'm still working on the code, but feeling focused and good about my attempts at it. I'm thinking I need to read more about Objects.
+
+### R1D72: 3/26/18
+
+**Today's Progress**: I worked through freeCodeCamp's "Wherefore Art Thou" algorithm and did the same thing - wrote out pseudocode and really tried to understand the step-by-step. I utilized jsfiddle for this, as it's easy to see the console.logs.
+
+**Thoughts**: I like this new process I have of using jsfiddle to work things out. It's helping me see the logic of algorithm construction. 
