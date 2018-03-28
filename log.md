@@ -488,3 +488,9 @@
 **Today's Progress**: I worked through freeCodeCamp's "Wherefore Art Thou" algorithm and did the same thing - wrote out pseudocode and really tried to understand the step-by-step. I utilized jsfiddle for this, as it's easy to see the console.logs.
 
 **Thoughts**: I like this new process I have of using jsfiddle to work things out. It's helping me see the logic of algorithm construction. 
+
+### R1D73: 3/28/18
+
+**Today's Progress**: I worked through freeCodeCamp's "Search and Replace" algorithm all on my own! Had to research how to do certain snippets of the code, but I knew how to figure it out without peeking.
+
+**Thoughts**: Proud of myself. :)
