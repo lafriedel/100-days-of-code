@@ -494,3 +494,9 @@
 **Today's Progress**: I worked through freeCodeCamp's "Search and Replace" algorithm all on my own! Had to research how to do certain snippets of the code, but I knew how to figure it out without peeking.
 
 **Thoughts**: Proud of myself. :)
+
+### R1D74: 3/31/18
+
+**Today's Progress**: I worked through freeCodeCamp's "Pig Latin" algorithm and I've nearly solved it. The only thing I'm missing is to push the first two characters to the back, rather than just the first, if the word starts with two consonants (like "glove"). So close!
+
+**Thoughts**: Really happy to have known how to construct the algorithm 90% of the way there, without hints. Going to try to finish it up tomorrow without looking for any hints.
