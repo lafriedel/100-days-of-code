@@ -500,3 +500,10 @@
 **Today's Progress**: I worked through freeCodeCamp's "Pig Latin" algorithm and I've nearly solved it. The only thing I'm missing is to push the first two characters to the back, rather than just the first, if the word starts with two consonants (like "glove"). So close!
 
 **Thoughts**: Really happy to have known how to construct the algorithm 90% of the way there, without hints. Going to try to finish it up tomorrow without looking for any hints.
+
+### R1D75: 4/1/18
+
+**Today's Progress**: I read through some resources that I had saved on my Resources page, namely the article "Why Is Learning to Code So Damn Hard?" I also signed up for and played around on Code Wars.
+
+**Thoughts**: Even though it was late in the evening and my brain wasn't totally ready to do some coding, I'm glad I set aside some time to study.
+
