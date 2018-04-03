@@ -507,3 +507,9 @@
 
 **Thoughts**: Even though it was late in the evening and my brain wasn't totally ready to do some coding, I'm glad I set aside some time to study.
 
+### R1D76: 4/2/18
+
+**Today's Progress**: I took part in the first day of Lambda School's mini bootcamp - we learned how to use the command line and push to GitHub.
+
+**Thoughts**: I've had issues with the command line in the past so taking time to figure out my issues was awesome. I can now appropriately push to my GitHub account. Looking forward to tomorrow.
+
