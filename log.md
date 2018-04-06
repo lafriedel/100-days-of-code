@@ -513,3 +513,20 @@
 
 **Thoughts**: I've had issues with the command line in the past so taking time to figure out my issues was awesome. I can now appropriately push to my GitHub account. Looking forward to tomorrow.
 
+### R1D77: 4/3/18
+
+**Today's Progress**: Participated in day 2 of Lambda School's mini bootamp - learned about HTML and CSS. Also worked on some basic homework from the previous day - pushing to GitHub.
+
+**Thoughts**: It was basically just a review for me today - s'ok; I'm looking forward to the Javascript portion of the bootcamp.
+
+### R1D78: 4/4/18
+
+**Today's Progress**: Participated in day 3 of Lambda School's mini bootamp - learned about CSS positioning. I also worked on the previous day's homework - just some basic editing of HTML and CSS.
+
+**Thoughts**: Again, mostly a review but I did learn more about Flexbox which was helpful!
+
+### R1D79: 4/5/18
+
+**Today's Progress**: Participated in day 4 of Lambda School's mini bootamp - intro to Javascript. Learned about ES6 syntax changes/additions, and different ways to create functions. I also worked on the previous day's homework, which dealt with the position and display properties, as well as manipulating elements with flexbox.
+
+**Thoughts**: I'm glad to be taught Javascript basics with someone talking and a visual aid. I really think this will help me grasp any basic foundation knowledge of Javascript that I initially missed.
