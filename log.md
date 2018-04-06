@@ -527,6 +527,13 @@
 
 ### R1D79: 4/5/18
 
-**Today's Progress**: Participated in day 4 of Lambda School's mini bootamp - intro to Javascript. Learned about ES6 syntax changes/additions, and different ways to create functions. I also worked on the previous day's homework, which dealt with the position and display properties, as well as manipulating elements with flexbox.
+**Today's Progress**: Participated in day 4 of Lambda School's mini bootcamp - intro to Javascript. Learned about ES6 syntax changes/additions, and different ways to create functions. I also worked on the previous day's homework, which dealt with the position and display properties, as well as manipulating elements with flexbox.
 
 **Thoughts**: I'm glad to be taught Javascript basics with someone talking and a visual aid. I really think this will help me grasp any basic foundation knowledge of Javascript that I initially missed.
+
+### R1D80: 4/6/18
+
+**Today's Progress**: I worked on my homework for the Lambda School mini-bootcamp. It wasn't typing actual code, but writing out explanations of fundamental Javascript terms as if we were explaining it to a 12-year-old. We're also supposed to set up Node but I'm waiting for my new laptop (!!!) to arrive.
+
+**Thoughts**: This assignment is helping me flesh out my understanding of these terms.
+
