@@ -542,3 +542,9 @@
 **Today's Progress**: What an exhilarating day! I got a new laptop so I got set up git and installed Node + npm. Then I did Lambda School's Day 4 homework, which was completing simple Javascript functions and then running them through a test with npm via Terminal. I proceeded to get kind of lost inside Terminal, temporarily broke some things (I did something weird to my .gitconfig file, but figured out how to reaccess it to fix the problem), but then finally was able to pass the test and push everything to GitHub!
 
 **Thoughts**: I'm still so intimidated by the command line but now I'm kind of obsessed. I feel more empowered every time I search the messages if I get errors. It was so cool to see the results of the test - which functions passed, and which failed.
+
+### R1D82: 4/8/18
+
+**Today's Progress**: I finished up my Feynman writing prompts for Javascript and pushed it to GitHub. Then I helped out on a Squarespace website by integrating some custom HTML and CSS.
+
+**Thoughts**: I enjoyed playing around with Squarespace a bit. I know I will be eventually building websites from scratch, but I think it's important to know in case I ever design or manage any websites with it.
