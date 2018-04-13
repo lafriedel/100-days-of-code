@@ -548,3 +548,31 @@
 **Today's Progress**: I finished up my Feynman writing prompts for Javascript and pushed it to GitHub. Then I helped out on a Squarespace website by integrating some custom HTML and CSS.
 
 **Thoughts**: I enjoyed playing around with Squarespace a bit. I know I will be eventually building websites from scratch, but I think it's important to know in case I ever design or manage any websites with it.
+
+### R1D83: 4/9/18
+
+**Today's Progress**: Today I watched Lambda School's second Javascript class. We covered comparison operators, truthy/falsy, the difference between undefined and null, control flow, and logical operators.
+
+**Thoughts**: Whew! What a great review. It's a review but really a more comprehensive (for me) return to some of the fundamentals I missed. I now have a better understanding of truthy vs. falsy, as well as undefined vs. null.
+
+
+### R1D84: 4/10/18
+
+**Today's Progress**: I watched Lambda School's Precourse day 6. We learned about Javascript arrays, for loops, and a few array methods. I also learned about the 'arguments' keyword.
+
+**Thoughts**: Even though some of this stuff is a review, it feels really good when something I didn't know about becomes part of the lesson! I love knowing about the 'arguments' keyword.
+
+
+### R1D85: 4/11/18
+
+**Today's Progress**: Today I listened in Lambda School's Precourse day 7. We learned about objects and for...in loops.
+
+**Thoughts**: I hadn't ever known about for...in loops. They're pretty cool! Also, learning about creating new methods in objects was kind of mindblowing.
+
+
+### R1D86: 4/12/18
+
+**Today's Progress**: I started working on the homework for this week's Lambda School Precourse lessons. It involved writing more functions and running them through npm tests. I then listened in on this week's last lesson. We learned about creating classes, the 'this' keyword, and the prototype.
+
+**Thoughts**: So interesting! I feel like I'm learning more about Javascript in these past few days than I have in the whole time I've been doing #100DaysOfCode.
+
