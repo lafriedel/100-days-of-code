@@ -576,3 +576,9 @@
 
 **Thoughts**: So interesting! I feel like I'm learning more about Javascript in these past few days than I have in the whole time I've been doing #100DaysOfCode.
 
+### R1D87: 4/14/18
+
+**Today's Progress**: I worked on Lambda School's homework - writing more Javascript functions and running them through npm tests. 
+
+**Thoughts**: In each assignment I'm left with like one or two functions that don't pass - I'm having trouble solving them and it's frustrating!
+
