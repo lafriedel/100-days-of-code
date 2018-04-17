@@ -582,3 +582,14 @@
 
 **Thoughts**: In each assignment I'm left with like one or two functions that don't pass - I'm having trouble solving them and it's frustrating!
 
+### R1D88: 4/16/18
+
+**Today's Progress**: Sat in on the ninth Lambda School lesson, where we learned about callback functions.
+
+**Thoughts**: The layering within callback functions is where my brain starts to work a little slower. It's gonna be a little bit before I grasp this, and that's ok!
+
+### R1D89: 4/17/18
+
+**Today's Progress**: I worked on Lambda School's homework - writing more Javascript functions and running them through npm tests. I solved the functions from last week that I was having trouble with, and moving onto later lessons.
+
+**Thoughts**: Struggling a bit with functions using objects and callback functions - but I know it just takes practice.
