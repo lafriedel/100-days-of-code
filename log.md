@@ -593,3 +593,9 @@
 **Today's Progress**: I worked on Lambda School's homework - writing more Javascript functions and running them through npm tests. I solved the functions from last week that I was having trouble with, and moving onto later lessons.
 
 **Thoughts**: Struggling a bit with functions using objects and callback functions - but I know it just takes practice.
+
+### R1D90: 4/18/18
+
+**Today's Progress**: I learned about recursion today via Lambda School!
+
+**Thoughts**: SI was intimidated by the idea of recursion but seeing it broken down into detailed steps really helped. I feel like I can approach it now. Whether I can actually build correct recursive code is another story, but I feel empowered. The comparison to Russian nesting dolls was really helpful for me.
