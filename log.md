@@ -598,4 +598,16 @@
 
 **Today's Progress**: I learned about recursion today via Lambda School!
 
-**Thoughts**: SI was intimidated by the idea of recursion but seeing it broken down into detailed steps really helped. I feel like I can approach it now. Whether I can actually build correct recursive code is another story, but I feel empowered. The comparison to Russian nesting dolls was really helpful for me.
+**Thoughts**: I was intimidated by the idea of recursion but seeing it broken down into detailed steps really helped. I feel like I can approach it now. Whether I can actually build correct recursive code is another story, but I feel empowered. The comparison to Russian nesting dolls was really helpful for me.
+
+### R1D91: 4/19/18
+
+**Today's Progress**: I sat in on the last lesson of Lambda School's mini bootcamp - we learned about the DOM.
+
+**Thoughts**: It was a good reminder that "document" looks like HTML when you console.log it but it's actually a "Javascript copy" of it. I think I explained that right!
+
+### R1D92: 4/20/18
+
+**Today's Progress**: I worked on Lambda School's homework, mainly lesson 07 concerning objects. I completed the assignment and pushed it to GitHub.
+
+**Thoughts**: I'm feeling more comfortable with Javascript now. Still, I'm a beginniner, but I just feel more confident going into it. I'm less freaked out when code doesn't initially work; I feel like I solve it faster too. Not always, but I know how/where to look for answers.
