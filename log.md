@@ -611,3 +611,9 @@
 **Today's Progress**: I worked on Lambda School's homework, mainly lesson 07 concerning objects. I completed the assignment and pushed it to GitHub.
 
 **Thoughts**: I'm feeling more comfortable with Javascript now. Still, I'm a beginniner, but I just feel more confident going into it. I'm less freaked out when code doesn't initially work; I feel like I solve it faster too. Not always, but I know how/where to look for answers.
+
+### R1D93: 4/22/18
+
+**Today's Progress**: I finished Lambda School lesson 08 homework and started working on lesson 09. The lessons involve Javascript classes and callback functions.
+
+**Thoughts**: Callbacks are starting to make a bit more sense to me now. The complicated ones still feel pretty abstract to me, but I think writing out Feynman prompts on these terms will help as well.
