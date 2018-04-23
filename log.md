@@ -617,3 +617,9 @@
 **Today's Progress**: I finished Lambda School lesson 08 homework and started working on lesson 09. The lessons involve Javascript classes and callback functions.
 
 **Thoughts**: Callbacks are starting to make a bit more sense to me now. The complicated ones still feel pretty abstract to me, but I think writing out Feynman prompts on these terms will help as well.
+
+### R1D94: 4/23/18
+
+**Today's Progress**: I finished lesson 09 of the Lambda School homework (callback functions) and I began looking at lesson 10. Lessons 10-12 include closure and recursion.
+
+**Thoughts**: Slowly, slowly, callback functions are making more sense. I coded early in the morning for the first time in a while and I think that really helped with my problem solving. I do think my mind is best suited for coding in the mornings.
