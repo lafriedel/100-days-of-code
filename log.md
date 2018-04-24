@@ -623,3 +623,9 @@
 **Today's Progress**: I finished lesson 09 of the Lambda School homework (callback functions) and I began looking at lesson 10. Lessons 10-12 include closure and recursion.
 
 **Thoughts**: Slowly, slowly, callback functions are making more sense. I coded early in the morning for the first time in a while and I think that really helped with my problem solving. I do think my mind is best suited for coding in the mornings.
+
+### R1D95: 4/24/18
+
+**Today's Progress**: I got the first function of lesson 10 to pass! My first closure!
+
+**Thoughts**: Very excited about my first closure passing. I did it with minimal help. My main issue was with variable scope, which I figured out with trial and error - and I understand why the correct solution works. Honestly, it looks like morning coding is what's best for me.
