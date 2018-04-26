@@ -629,3 +629,9 @@
 **Today's Progress**: I got the first function of lesson 10 to pass! My first closure!
 
 **Thoughts**: Very excited about my first closure passing. I did it with minimal help. My main issue was with variable scope, which I figured out with trial and error - and I understand why the correct solution works. Honestly, it looks like morning coding is what's best for me.
+
+### R1D96: 4/25/18
+
+**Today's Progress**: I rewatched the lesson 10 video on closure and finished lesson 10's assignments and pushed it to GitHub. The second function needed a cache; if the returned function hadn't encountered an argument before, it would compute the result; if it had, it would access the cache. 
+
+**Thoughts**: Some code syntax that I feel should work didn't work (even when modeling my code from the actual lesson) but I got it to work a slightly different way. Just interested to learn why my original code didn't work. Waiting to see if I get any responses on Slack.
