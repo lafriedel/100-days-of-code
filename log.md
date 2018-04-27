@@ -635,3 +635,15 @@
 **Today's Progress**: I rewatched the lesson 10 video on closure and finished lesson 10's assignments and pushed it to GitHub. The second function needed a cache; if the returned function hadn't encountered an argument before, it would compute the result; if it had, it would access the cache. 
 
 **Thoughts**: Some code syntax that I feel should work didn't work (even when modeling my code from the actual lesson) but I got it to work a slightly different way. Just interested to learn why my original code didn't work. Waiting to see if I get any responses on Slack.
+
+### R1D97: 4/26/18
+
+**Today's Progress**: I worked on and finished lesson 11 of Lambda School's mini-bootcamp, which is about recursion. I rewatched the live streamed video to get a review. 
+
+**Thoughts**: Having trouble understanding the fibonacci recursive function so I think tomorrow I'm going to dive deeper into understanding that.
+
+### R1D98: 4/27/18
+
+**Today's Progress**: I spent the whole hour trying to wrap my head around the reason the fibonacci function. I ended up making a "tree" diagram to understand the math. I also found some blog posts about the recursive solution to it.
+
+**Thoughts**: Handwriting a diagram really helped. I now understand the math behind it -- rather, I understood the math I just didn't understand the nesting of the function, exactly. I was confused because the recursive step is to call the function twice, so that was confusing to me at first. But breaking it down really, really helped.
