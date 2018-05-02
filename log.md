@@ -647,3 +647,15 @@
 **Today's Progress**: I spent the whole hour trying to wrap my head around the reason the fibonacci function. I ended up making a "tree" diagram to understand the math. I also found some blog posts about the recursive solution to it.
 
 **Thoughts**: Handwriting a diagram really helped. I now understand the math behind it -- rather, I understood the math I just didn't understand the nesting of the function, exactly. I was confused because the recursive step is to call the function twice, so that was confusing to me at first. But breaking it down really, really helped.
+
+### R1D99: 4/30/18
+
+**Today's Progress**: I watched the recording of Lambda School's lesson 12, which is about the DOM. We didn't have a successful recording during the actual bootcamp because of poor internet connection. 
+
+**Thoughts**: Even though I already knew how to do what was being done in the video, it was nice to have a deeper explanation of why it works.
+
+### R1D100: 5/1/18
+
+**Today's Progress**: I worked on the homework assignment for lesson 12, which is making a to do list web app. It utilizes much of the stuff we learned in the previous lessons. I got some functions written, but I'm not done.
+
+**Thoughts**: Somehow I'm at day 100! Crazy! I've learned so much. I've been a bit preoccupied with my wedding planning as I've gotten to the end here, but I've still done my best to make time to code. It has been a great experience.
