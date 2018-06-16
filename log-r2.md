@@ -19,3 +19,6 @@ Listened to Lambda School's bootcamp to review if/else, scope, and control flow.
 
 ### R2D5 (6/15/18)
 I worked through some of freeCodeCamp's ES6 section. Getting stuck on writing higher order arrow functions -- higher order functions are still giving me a bit of trouble.
+
+### R2D6 (6/16/18)
+Frustrated by my block on higher order arrow functions, I went back to CSS and worked through a large chunk of freeCodeCamp's Applied Visual Design section.
