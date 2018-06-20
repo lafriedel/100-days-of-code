@@ -22,3 +22,9 @@ I worked through some of freeCodeCamp's ES6 section. Getting stuck on writing hi
 
 ### R2D6 (6/16/18)
 Frustrated by my block on higher order arrow functions, I went back to CSS and worked through a large chunk of freeCodeCamp's Applied Visual Design section.
+
+### R2D7 (6/18/18)
+I continued work on the Applied Visual Design section - loved learning about CSS animation!
+
+### R2D8 (6/19/18)
+Finished up the Applied Visual Design section and moved onto Applied Accessibility.
