@@ -28,3 +28,9 @@ I continued work on the Applied Visual Design section - loved learning about CSS
 
 ### R2D8 (6/19/18)
 Finished up the Applied Visual Design section and moved onto Applied Accessibility.
+
+### R2D9 (6/20/18)
+Finished the Applied Accessibility section on freeCodeCamp.
+
+### R2D10 (6/23/18)
+Skipped 2 days so worked a bit longer to make up for it. I worked through the Responsive Web Design Principles, CSS Flexbox and CSS Grid sections on freeCodeCamp. Started laying out the survey form challenge HTML on Codepen.
