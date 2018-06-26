@@ -35,6 +35,8 @@ Finished the Applied Accessibility section on freeCodeCamp.
 ### R2D10 (6/23/18)
 Skipped 2 days so worked a bit longer to make up for it. I worked through the Responsive Web Design Principles, CSS Flexbox and CSS Grid sections on freeCodeCamp. Started laying out the survey form challenge HTML on Codepen.
 
-
 ### R2D11 (6/24/18)
 Continued to work on the survey form challenge. I'm focusing on proper accessibility. I'll move onto styling soon.
+
+### R2D12 (6/25/18)
+I began styling the form. Trying to make it efficient! I'm learning that some form elements are tricky to style.
