@@ -40,3 +40,12 @@ Continued to work on the survey form challenge. I'm focusing on proper accessibi
 
 ### R2D12 (6/25/18)
 I began styling the form. Trying to make it efficient! I'm learning that some form elements are tricky to style.
+
+### R2D14 (6/27/18)
+Continued working on the form styling, and also made sure it passed all of freeCodeCamp's tests.
+
+### R2D15 (6/28/18)
+Something different today: A friend introduced me to XCode, we cloned his repo and we played around with the code a bit. Setting me up to edit more of the code and play with Swift!
+
+### R2D16 (6/29/18)
+Back to the form: Made the content more specific. Still working on styling and now intending to create some media queries.
