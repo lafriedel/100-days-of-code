@@ -41,11 +41,20 @@ Continued to work on the survey form challenge. I'm focusing on proper accessibi
 ### R2D12 (6/25/18)
 I began styling the form. Trying to make it efficient! I'm learning that some form elements are tricky to style.
 
-### R2D14 (6/27/18)
+### R2D13 (6/27/18)
 Continued working on the form styling, and also made sure it passed all of freeCodeCamp's tests.
 
-### R2D15 (6/28/18)
+### R2D14 (6/28/18)
 Something different today: A friend introduced me to XCode, we cloned his repo and we played around with the code a bit. Setting me up to edit more of the code and play with Swift!
 
-### R2D16 (6/29/18)
+### R2D15 (6/29/18)
 Back to the form: Made the content more specific. Still working on styling and now intending to create some media queries.
+
+### R2D16 (6/30/18)
+I totally forgot about my intent to create media queries for the form and instead decided to try out React with React's official Intro to React tutorial: a tic-tac-toe game.
+
+### R2D17 (7/2/18)
+I worked in my friend's Swift codebase today for a macOS app, and began altering colors for an altered layout for the app. It's cool to see and work in a complex codebase.
+
+### R2D18 (7/3/18)
+Finished the Intro to React tutorial, and went back to freeCodeCamp to review some Javascript basics.
